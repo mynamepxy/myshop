@@ -1,0 +1,3458 @@
+[ 2017-10-29T00:07:44+08:00 ] 127.0.0.1 /Admin/fenlei/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载控制器:Fenlei
+
+[ 2017-10-29T00:08:10+08:00 ] 127.0.0.1 /Admin/fenlei/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Fenlei
+
+[ 2017-10-29T00:08:51+08:00 ] 127.0.0.1 /Admin/User/save
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:User
+
+[ 2017-10-29T00:09:07+08:00 ] 127.0.0.1 /index.php/Admin/User/save
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:User
+
+[ 2017-10-29T00:09:35+08:00 ] ::1 /shop/index.php/Admin/User/save
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载控制器:User
+
+[ 2017-10-29T00:09:51+08:00 ] ::1 /shop/index.php/Admin/fenlei/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Fenlei
+
+[ 2017-10-29T12:05:43+08:00 ] 127.0.0.1 /index.php/Admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:05:44+08:00 ] 127.0.0.1 /index.php/Admin/index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-29T12:05:45+08:00 ] 127.0.0.1 /index.php/Admin/index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-10-29T12:05:45+08:00 ] 127.0.0.1 /index.php/Admin/index/drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2017-10-29T12:05:45+08:00 ] 127.0.0.1 /index.php/Admin/index/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:05:46+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:05:46+08:00 ] 127.0.0.1 /index.php/Admin/index/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:05:46+08:00 ] 127.0.0.1 /index.php/Admin/index/styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:05:47+08:00 ] 127.0.0.1 /index.php/Admin/index/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:05:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.033002s ]
+NOTIC: [2] array_reverse() expects parameter 1 to be array, null given C:\phpDome\shop\Home\Controller\IndexController.class.php 第 12 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.065004s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`goods_img`,`market_price` FROM `goods` WHERE ( is_hot=1 ) ORDER BY goods_id desc LIMIT 0,4   [ RunTime:0.000000s ]
+ERR: 1054:Unknown column 'is_hot' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`goods_img`,`market_price` FROM `goods` WHERE ( is_hot=1 ) ORDER BY goods_id desc LIMIT 0,4  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Runtime\Cache\Home\2f412aae274b751dca883838bf7e7502.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.098006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.099006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:05:50+08:00 ] 127.0.0.1 /api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-10-29T12:06:08+08:00 ] 127.0.0.1 /admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:06:09+08:00 ] 127.0.0.1 /admin/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+ERR: 无法加载控制器:Top
+
+[ 2017-10-29T12:06:09+08:00 ] 127.0.0.1 /admin/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+ERR: 无法加载控制器:Left
+
+[ 2017-10-29T12:06:09+08:00 ] 127.0.0.1 /admin/drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载控制器:Drag
+
+[ 2017-10-29T12:06:10+08:00 ] 127.0.0.1 /admin/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Main
+
+[ 2017-10-29T12:06:13+08:00 ] 127.0.0.1 /admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:06:14+08:00 ] 127.0.0.1 /admin/index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:06:14+08:00 ] 127.0.0.1 /admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-10-29T12:06:15+08:00 ] 127.0.0.1 /admin/index/drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:06:15+08:00 ] 127.0.0.1 /admin/index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:06:16+08:00 ] 127.0.0.1 /admin/index/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:06:16+08:00 ] 127.0.0.1 /admin/index/styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:06:16+08:00 ] 127.0.0.1 /admin/index/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:06:16+08:00 ] 127.0.0.1 /admin/index/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:08:27+08:00 ] 127.0.0.1 /admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-29T12:08:28+08:00 ] 127.0.0.1 /admin/index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:08:29+08:00 ] 127.0.0.1 /admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-10-29T12:08:29+08:00 ] 127.0.0.1 /admin/index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-10-29T12:08:30+08:00 ] 127.0.0.1 /admin/index/drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2017-10-29T12:08:30+08:00 ] 127.0.0.1 /admin/index/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:08:30+08:00 ] 127.0.0.1 /admin/index/styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:08:31+08:00 ] 127.0.0.1 /Public/Adinm/css/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-10-29T12:08:31+08:00 ] 127.0.0.1 /admin/index/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:08:36+08:00 ] 127.0.0.1 /admin/index/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:08:36+08:00 ] 127.0.0.1 /Public/Adinm/css/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-10-29T12:08:36+08:00 ] 127.0.0.1 /admin/index/styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:08:37+08:00 ] 127.0.0.1 /admin/index/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:09:50+08:00 ] 127.0.0.1 /admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:09:51+08:00 ] 127.0.0.1 /admin/index/drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-10-29T12:09:51+08:00 ] 127.0.0.1 /admin/index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:09:52+08:00 ] 127.0.0.1 /admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2017-10-29T12:09:52+08:00 ] 127.0.0.1 /admin/index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-10-29T12:09:53+08:00 ] 127.0.0.1 /Public/Adinm/css/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-10-29T12:09:53+08:00 ] 127.0.0.1 /Public/Adinm/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-10-29T12:09:53+08:00 ] 127.0.0.1 /admin/index/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:09:54+08:00 ] 127.0.0.1 /Public/Adinm/css/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-10-29T12:13:20+08:00 ] 127.0.0.1 /admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:13:21+08:00 ] 127.0.0.1 /admin/index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:13:22+08:00 ] 127.0.0.1 /admin/index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:13:22+08:00 ] 127.0.0.1 /admin/index/drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-10-29T12:13:23+08:00 ] 127.0.0.1 /admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:13:23+08:00 ] 127.0.0.1 /admin/index/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:13:23+08:00 ] 127.0.0.1 /Public/Adinm/css/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-10-29T12:13:24+08:00 ] 127.0.0.1 /Public/Adinm/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-10-29T12:13:24+08:00 ] 127.0.0.1 /Public/Adinm/css/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-10-29T12:14:17+08:00 ] 127.0.0.1 /Public/Adinm/css/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-10-29T12:14:17+08:00 ] 127.0.0.1 /admin/index/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:14:17+08:00 ] 127.0.0.1 /Public/Adinm/css/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-10-29T12:14:17+08:00 ] 127.0.0.1 /Public/Adinm/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-10-29T12:14:26+08:00 ] 127.0.0.1 /admin/index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:14:27+08:00 ] 127.0.0.1 /Public/Adinm/css/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-10-29T12:15:55+08:00 ] 127.0.0.1 /admin/index/drag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:16:18+08:00 ] 127.0.0.1 /admin/index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-29T12:16:18+08:00 ] 127.0.0.1 /Public/Adinm/css/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-10-29T12:16:18+08:00 ] 127.0.0.1 /Public/Adinm/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-10-29T12:16:22+08:00 ] 127.0.0.1 /Public/Adinm/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-10-29T12:16:22+08:00 ] 127.0.0.1 /Public/Adinm/css/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-10-29T12:17:41+08:00 ] 127.0.0.1 /admin/index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:18:22+08:00 ] 127.0.0.1 /admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:18:23+08:00 ] 127.0.0.1 /admin/index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-10-29T12:18:23+08:00 ] 127.0.0.1 /admin/index/drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008001s ]
+
+[ 2017-10-29T12:18:24+08:00 ] 127.0.0.1 /admin/index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-10-29T12:18:24+08:00 ] 127.0.0.1 /admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:18:25+08:00 ] 127.0.0.1 /Public/Adinm/css/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+ERR: 无法加载控制器:Public
+
+[ 2017-10-29T12:18:25+08:00 ] 127.0.0.1 /admin/index/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作:styles
+
+[ 2017-10-29T12:20:37+08:00 ] 127.0.0.1 /admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-10-29T12:20:38+08:00 ] 127.0.0.1 /admin/index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:20:39+08:00 ] 127.0.0.1 /admin/index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-10-29T12:20:39+08:00 ] 127.0.0.1 /admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2017-10-29T12:20:40+08:00 ] 127.0.0.1 /admin/index/drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:20:46+08:00 ] 127.0.0.1 /admin/index/goodslist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:goodslist
+
+[ 2017-10-29T12:22:38+08:00 ] 127.0.0.1 /admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.006000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.002000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.003000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-10-29T12:28:02+08:00 ] 127.0.0.1 /admin/cat/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+ERR: 非法操作:add
+
+[ 2017-10-29T12:28:09+08:00 ] 127.0.0.1 /Admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-29T12:29:13+08:00 ] 127.0.0.1 /admin/cat/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:add
+
+[ 2017-10-29T12:29:20+08:00 ] 127.0.0.1 /admin/cat/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+ERR: 非法操作:add
+
+[ 2017-10-29T12:38:05+08:00 ] 127.0.0.1 /Admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-10-29T12:38:20+08:00 ] 127.0.0.1 /Admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.001001s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:40:21+08:00 ] 127.0.0.1 /Admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.000000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Admin\Common\function.php 第 35 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:44:28+08:00 ] 127.0.0.1 /Admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:45:44+08:00 ] 127.0.0.1 /Admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.002000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-10-29T12:46:23+08:00 ] 127.0.0.1 /Admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.005000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.003000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:47:54+08:00 ] 127.0.0.1 /Admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:48:04+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+
+[ 2017-10-29T12:49:35+08:00 ] 127.0.0.1 /Admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.001001s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:49:38+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+
+[ 2017-10-29T12:50:21+08:00 ] 127.0.0.1 /Admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.002000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001001s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:50:45+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:51:46+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:52:25+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`,`intro`) VALUES ('3.222',9,'3.222222') [ RunTime:0.001000s ]
+
+[ 2017-10-29T12:52:26+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-10-29T12:55:01+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`,`intro`) VALUES ('pxy',1,'pxy') [ RunTime:0.000000s ]
+
+[ 2017-10-29T12:55:17+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`,`intro`) VALUES ('pxy',1,'pxy') [ RunTime:0.000000s ]
+
+[ 2017-10-29T12:55:48+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.000000s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`,`intro`) VALUES ('pxy',9,'pxy') [ RunTime:0.000000s ]
+
+[ 2017-10-29T12:57:33+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`,`intro`) VALUES ('pxy',9,'pxy') [ RunTime:0.001001s ]
+
+[ 2017-10-29T12:57:37+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-10-29T12:57:53+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`,`intro`) VALUES ('3.22栏目',9,'3.2222222') [ RunTime:0.000000s ]
+
+[ 2017-10-29T12:58:03+08:00 ] 127.0.0.1 /Admin/cat
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:index
+
+[ 2017-10-29T12:58:10+08:00 ] 127.0.0.1 /Admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T12:58:56+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`,`intro`) VALUES ('3.333',15,'3.33333') [ RunTime:0.001000s ]
+
+[ 2017-10-29T12:58:59+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.001001s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.001001s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:04:01+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-10-29T15:04:19+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`,`intro`) VALUES ('44',10,'444') [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.002000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.048003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.037002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.046003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-29T15:04:21+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:04:37+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.000000s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`,`intro`) VALUES ('33',1,'333') [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-10-29T15:04:39+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 18 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.001001s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:05:40+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001001s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001001s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat` WHERE ( `cat_id` = 0 ) LIMIT 1   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-29T15:07:29+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001001s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-10-29T15:07:42+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:10:31+08:00 ] 127.0.0.1 /admin/cat/cateedit/cat_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001001s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001001s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:10:49+08:00 ] 127.0.0.1 /admin/cat/catelist/cat_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-10-29T15:11:51+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-10-29T15:16:03+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001001s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 18 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.001001s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 33 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 58 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-10-29T15:16:10+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 18 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.002000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 33 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 58 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:17:01+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 18 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 33 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 58 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:19:03+08:00 ] 127.0.0.1 /admin/cat/catelist/cat_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.002000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:19:10+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.000000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 18 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.001001s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 18 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.001001s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 33 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 58 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:19:16+08:00 ] 127.0.0.1 /admin/cat/catelist/cat_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.002001s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.002000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.002000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:19:30+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001001s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 3 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 18 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 33 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 58 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-10-29T15:19:37+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/11.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.000000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 11 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.001001s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 18 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.001001s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 33 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 58 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:19:48+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 12 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001001s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 18 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 33 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 58 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:19:57+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 18 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 18 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.001001s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 33 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 58 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:24:32+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 12 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 18 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 33 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 58 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:24:42+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.000000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 18 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 33 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 58 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:25:16+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 3 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 18 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001001s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 33 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 58 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-10-29T15:28:14+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001001s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 18 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.002000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.001001s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 33 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 58 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-10-29T15:28:39+08:00 ] 127.0.0.1 /Admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 18 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:29:02+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.000000s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`,`intro`) VALUES ('777',1,'7') [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:29:04+08:00 ] 127.0.0.1 /Admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 1 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 18 [ RunTime:0.002000s ]
+SQL: select * from cat where parent_id = 19 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:29:11+08:00 ] 127.0.0.1 /admin/cat/catelist/cat_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-10-29T15:29:19+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SELECT `cat_name` FROM `cat` WHERE ( `cat_id` = 19 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 18 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 19 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 33 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 58 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T15:36:01+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\phpDome\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 0 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 1 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 3 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 4 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 11 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 12 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 18 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 19 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 2 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 5 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 6 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 7 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 8 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 9 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 10 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 17 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 13 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 14 [ RunTime:0.000000s ]
+SQL: select * from cat where parent_id = 15 [ RunTime:0.001000s ]
+SQL: select * from cat where parent_id = 16 [ RunTime:0.001000s ]
+SQL: SELECT `pid` FROM `cat` WHERE ( `cat_id` = 19 ) LIMIT 1   [ RunTime:0.000000s ]
+ERR: 1054:Unknown column 'pid' in 'field list'
+ [ SQL语句 ] : SELECT `pid` FROM `cat` WHERE ( `cat_id` = 19 ) LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 33 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 58 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-29T19:22:49+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit.htmlArray
+ERR: 非法操作:cateedit.htmlArray
+

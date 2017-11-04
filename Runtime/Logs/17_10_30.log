@@ -1,0 +1,21 @@
+[ 2017-10-30T00:31:25+08:00 ] 127.0.0.1 /index/thinkU.html
+ERR: 非法操作:thinkU
+
+[ 2017-10-30T11:43:36+08:00 ] 127.0.0.1 /index/thinkU.html
+ERR: 非法操作:thinkU
+
+[ 2017-10-30T12:03:54+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+ERR: Think\Model:gerError方法不存在！
+
+[ 2017-10-30T22:26:11+08:00 ] 127.0.0.1 /Admin/cat/cateelist
+ERR: 非法操作:cateelist
+
+[ 2017-10-30T23:05:41+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit.htmlArray
+ERR: 非法操作:cateedit.htmlArray
+
+[ 2017-10-30T23:08:04+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit.htmlArray
+ERR: 非法操作:cateedit.htmlArray
+
+[ 2017-10-30T23:08:23+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit.htmlArray
+ERR: 非法操作:cateedit.htmlArray
+
